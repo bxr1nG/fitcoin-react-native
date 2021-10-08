@@ -1,12 +1,12 @@
 {
   "expo": {
-    "name": "fitcoin-react",
-    "slug": "fitcoin-react",
+    "name": "FITcoin",
+    "slug": "fitcoin-react-native",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./images/logo-fit.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -21,12 +21,13 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
+        "foregroundImage": "./images/logo-fit.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.bxr1ng.fitcoin"
     },
     "web": {
-      "favicon": "./assets/favicon.png"
+      "favicon": "./images/logo-fit.png"
     }
   }
 }
