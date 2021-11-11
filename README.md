@@ -1,6 +1,6 @@
 # FITcoin React Native
 
-### [APK is here!](\apk)
+### [APK is here!](/apk)
 
 My first experience in developing an application on the React Native platform.
 
