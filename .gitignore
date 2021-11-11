@@ -91,6 +91,7 @@ xcuserdata
 
 # Android
 *.apk
+!apk/*.apk
 *.hprof
 /android/**/build
 /android/**/.cxx
