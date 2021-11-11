@@ -8,7 +8,7 @@ The application has limited functionality due to the insufficient amount of time
 
 *Below you can see some screenshots*
 
-| ![screen1](\screenshots\screen1.jpg) | ![screen2](\screenshots\screen2.jpg) | ![screen3](\screenshots\screen3.jpg) |
+| ![screen1](./screenshots/screen1.jpg) | ![screen2](./screenshots/screen2.jpg) | ![screen3](./screenshots/screen3.jpg) |
 | ------------------------------------ | ------------------------------------ | ------------------------------------ |
 
 The purpose of the app is to use it when shooting a short film to represent a group of freshmen at the **FIT Freshman Day** event at the university.
