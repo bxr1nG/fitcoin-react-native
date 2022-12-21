@@ -1,33 +1,31 @@
 {
-  "expo": {
-    "name": "FITcoin",
-    "slug": "fitcoin-react-native",
-    "version": "1.0.0",
-    "orientation": "portrait",
-    "icon": "./assets/icon.png",
-    "splash": {
-      "image": "./images/logo-fit.png",
-      "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
-    },
-    "updates": {
-      "fallbackToCacheTimeout": 0
-    },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
-    "ios": {
-      "supportsTablet": true
-    },
-    "android": {
-      "adaptiveIcon": {
-        "foregroundImage": "./images/logo-fit.png",
-        "backgroundColor": "#FFFFFF"
-      },
-      "package": "com.bxr1ng.fitcoin"
-    },
-    "web": {
-      "favicon": "./images/logo-fit.png"
+    "expo": {
+        "name": "FITcoin",
+        "slug": "fitcoin-react-native",
+        "version": "1.0.0",
+        "orientation": "portrait",
+        "icon": "./Assets/logo-fit.png",
+        "splash": {
+            "image": "./Assets/logo-fit.png",
+            "resizeMode": "contain",
+            "backgroundColor": "#ffffff"
+        },
+        "updates": {
+            "fallbackToCacheTimeout": 0
+        },
+        "assetBundlePatterns": ["**/*"],
+        "ios": {
+            "supportsTablet": true
+        },
+        "android": {
+            "adaptiveIcon": {
+                "foregroundImage": "./Assets/logo-fit.png",
+                "backgroundColor": "#FFFFFF"
+            },
+            "package": "com.bxr1ng.fitcoin"
+        },
+        "web": {
+            "favicon": "./Assets/logo-fit.png"
+        }
     }
-  }
 }
